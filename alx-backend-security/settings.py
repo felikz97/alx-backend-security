@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'ip_tracking',
     'ipgeolocation',
     'ratelimit',
+    'django_celery_beat',
 ]
 
 MIDDLEWARE = [
